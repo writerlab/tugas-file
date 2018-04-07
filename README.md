@@ -1,4 +1,8 @@
-- buat program yang dapat menginput 
+# Tugas I/O
+7 April 2k18
+
+### Soal
+- buat program yang dapat menginput
 number dan menghasilkan output
 bilangan ganjil.
 contoh:
